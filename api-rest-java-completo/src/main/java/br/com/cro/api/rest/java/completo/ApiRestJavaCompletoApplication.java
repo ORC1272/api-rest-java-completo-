@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ApiRestJavaCompletoApplication {
 
-
 	public static void main(String[] args) {
+
+		System.out.printf("Hello World!");
 
 		SpringApplication.run(ApiRestJavaCompletoApplication.class, args);
 	}
