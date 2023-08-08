@@ -3,7 +3,6 @@ package br.com.cro.api.rest.java.completo.services;
 import br.com.cro.api.rest.java.completo.entities.User;
 import br.com.cro.api.rest.java.completo.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
